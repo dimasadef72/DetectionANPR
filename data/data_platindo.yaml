@@ -1,0 +1,12 @@
+names:
+- license
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: deteksi-plat-kendaraan_total-izfui
+  url: https://universe.roboflow.com/dimas-2x9wm/deteksi-plat-kendaraan_total-izfui/dataset/1
+  version: 1
+  workspace: dimas-2x9wm
+test: ../test/images
+train: /content/datasets/deteksi-plat-kendaraan_total-1/train/images
+val: /content/datasets/deteksi-plat-kendaraan_total-1/valid/images
